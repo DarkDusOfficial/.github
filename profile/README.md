@@ -1,12 +1,18 @@
-## Hi there 👋
+<h1 align="center">DarkDus Official Account</h1>
+<h3 align="left">What is DarkDus?</h3>
+DarkDus is a Open Source Custom Fortnite Bot Lobby,
 
-<!--
+DarkDus is a Fortnite lobby bot that is designed to help you manage your Fortnite Bot Lobby.
 
-**Here are some ideas to get you started:**
+DarkDus is a free and open-source project, and you are welcome to contribute to the project.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3 align="left">Links related to DarkDus</h3>
+Ripository: https://github.com/DarkDusOfficial/CustomFortniteBotLobbby <br>
+Website: https://dark-dus.web.app
+
+<h3 align="left">NOTE</h3>
+Fortnite is a trademarks or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. <br>
+DarkDus is not affiliated with, or sponsored or endorsed by, Epic Games, Inc <br>
+
+<h3 align="left">💬 Reache Me On:</h3>
+Discord: @mq_julus
