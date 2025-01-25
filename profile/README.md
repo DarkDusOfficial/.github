@@ -16,3 +16,6 @@ DarkDus is not affiliated with, or sponsored or endorsed by, Epic Games, Inc <br
 
 <h3 align="left">💬 Reache Me On:</h3>
 Discord: @mq_julus
+
+<h3 align="left">Contributors:</h3>
+- @mr-julus
