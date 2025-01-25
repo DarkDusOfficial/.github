@@ -7,7 +7,7 @@ DarkDus is a Fortnite lobby bot that is designed to help you manage your Fortnit
 DarkDus is a free and open-source project, and you are welcome to contribute to the project.
 
 <h3 align="left">Links related to DarkDus</h3>
-Ripository: https://github.com/DarkDusOfficial/CustomFortniteBotLobbby <br>
+Ripository: https://github.com/DarkDusOfficial/CustomFortniteBotLobby <br>
 Website: https://dark-dus.web.app
 
 <h3 align="left">NOTE</h3>
