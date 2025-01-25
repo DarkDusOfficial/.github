@@ -1,10 +1,8 @@
 <h1 align="center">DarkDus Official Account</h1>
 <h3 align="left">What is DarkDus?</h3>
-DarkDus is a Open Source Custom Fortnite Bot Lobby,
-
-DarkDus is a Fortnite lobby bot that is designed to help you manage your Fortnite Bot Lobby.
-
-DarkDus is a free and open-source project, and you are welcome to contribute to the project.
+DarkDus is a Open Source Custom Fortnite Bot Lobby, <br>
+DarkDus is a Fortnite lobby bot that is designed to help you manage your Fortnite Bot Lobby. <br>
+DarkDus is a free and open-source project, and you are welcome to contribute to the project. <br>
 
 <h3 align="left">Links related to DarkDus</h3>
 Ripository: https://github.com/DarkDusOfficial/CustomFortniteBotLobby <br>
