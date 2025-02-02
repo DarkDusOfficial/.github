@@ -6,7 +6,7 @@ DarkDus is a free and open-source project, and you are welcome to contribute to 
 
 <h3 align="left">Links related to DarkDus</h3>
 Ripository: https://github.com/DarkDusOfficial/CustomFortniteBotLobby <br>
-Website: https://dark-dus.web.app
+Website: https://darkdus.is-a.dev
 
 <h3 align="left">NOTE</h3>
 Fortnite is a trademarks or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. <br>
