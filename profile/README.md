@@ -9,7 +9,7 @@
 <h3 align="left">🔗 Related Links</h3>
 <ul>
     <li><strong>Repository:</strong> <a href="https://github.com/DarkDusOfficial/CustomFortniteBotLobby">GitHub</a></li>
-    <li><strong>Website:</strong> <a href="https://darkdus.is-a.dev">darkdus.is-a.dev</a> alias <a href="https://mr-julus.is-a.dev/darkdus/">mr-julus.is-a.dev/darkdus/</a></li>
+    <li><strong>Website:</strong> <a href="https://darkdus.is-a.dev">darkdus.is-a.dev</a></li>
 </ul>
 
 <h3 align="left">⚠️ Disclaimer</h3>
