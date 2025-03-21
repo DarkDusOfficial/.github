@@ -20,7 +20,7 @@
 
 <h3 align="left">💬 Contact</h3>
 <p>
-    Discord: <strong>@mq_julus</strong>
+    Discord: <strong>@mr_julus</strong>
 </p>
 
 <h3 align="left">👥 Contributors</h3>
